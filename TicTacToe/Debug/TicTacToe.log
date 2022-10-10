@@ -1,0 +1,5 @@
+﻿  TicTacToe.cpp
+C:\Users\5NR_Operator_19\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(104): warning C4474: "sprintf" : для строки формата передано слишком много аргументов
+  C:\Users\5NR_Operator_19\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(104): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 2
+C:\Users\5NR_Operator_19\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(192): warning C4715: isWinner: значение возвращается не при всех путях выполнения
+  TicTacToe.vcxproj -> C:\Users\5NR_Operator_19\source\repos\TicTacToe\Debug\TicTacToe.exe
